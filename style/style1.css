@@ -10,10 +10,19 @@ h1 {
     color: white;
     text-align: center;
 }
-
+.myname {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 30px;
+    font-weight: bolder;
+    color: aliceblue;
+}
 .aboutwork {
     font-family: verdana;
-    font-weight: bold;
+    font-weight: lighter;
     font-size: 20px;
     color: aliceblue;
+}
+
+#midside {
+    column-count: 2;
 }
